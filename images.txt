@@ -2,4 +2,7 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 mysql:5.7
-
+nacos/nacos-server:latest
+redis:6.2.5
+nginx
+openjdk:8-jre
