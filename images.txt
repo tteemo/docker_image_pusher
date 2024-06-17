@@ -4,7 +4,7 @@ kasmweb/nginx:1.25.3
 mysql:5.7
 nacos/nacos-server:latest
 redis:6.2.5
-nginx
+nginx:1.24
 redis
 openjdk:8-jre
 centos
