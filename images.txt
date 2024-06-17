@@ -5,6 +5,7 @@ mysql:5.7
 nacos/nacos-server:latest
 redis:6.2.5
 nginx
+redis
 openjdk:8-jre
 centos
 openjdk:8-jdk-alpine
