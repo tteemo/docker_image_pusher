@@ -7,6 +7,5 @@ redis:6.2.5
 nginx:1.24
 redis
 openjdk:8-jre
-centos
 openjdk:8-jdk-alpine
 dyrnq/kube-webhook-certgen:v20220916-gd32f8c343
